@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/zhravan/github-profile-summary-cards-template/master/profile-summary-card-output/nord_bright/4-productive-time.svg)
-```
-
-    
